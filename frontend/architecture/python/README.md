@@ -1,0 +1,2 @@
+# Python Frontend Application Architecture #
+

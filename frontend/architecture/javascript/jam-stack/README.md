@@ -1,0 +1,2 @@
+# JAM stack Architecture #
+

@@ -1,0 +1,2 @@
+# Java Frontend Application Architecture #
+
